@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "FinTech Agile User Stories & EU AI Act Risk Classification Toolkit"
+message: "If you use this software in your research, please cite this repository and the Mendeley Data V1 dataset."
+type: software
+authors:
+  - family-names: "Khan"
+    given-names: "Rabia"
+    email: "rabiakhan13309@gmail.com"
+    affiliation: "Department of Information Technology, University of Haripur & PAF-IAST"
+identifiers:
+  - type: doi
+    value: 10.17632/ww3wmkw466.1
+license: MIT
+version: 1.0.0
+date-released: "2026-11-14"
