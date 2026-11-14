@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# local data and the binary model (results in outputs/ are committed)
+data/
+outputs/best_model.joblib
